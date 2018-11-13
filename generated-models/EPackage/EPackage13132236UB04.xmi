@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="ASCII"?>
+<Ecore:EPackage xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:Ecore="http://Ecore" xsi:schemaLocation="http://Ecore meta-models/Ecore.ecore" name="Ecore_-5" nsURI="Ecore_-5" nsPrefix="Ecore_-5">
+  <eClassifiers xsi:type="Ecore:EClass" name="EClass_5_name_-5" instanceClassName="EClass_5_instanceClassName_-5" instanceTypeName="EClass_5_instanceTypeName_-5"/>
+  <eClassifiers xsi:type="Ecore:EClass" name="EClass_6_name_-5" instanceClassName="EClass_6_instanceClassName_-5" instanceTypeName="EClass_6_instanceTypeName_-5"/>
+  <eClassifiers xsi:type="Ecore:EClass" name="EClass_7_name_-5" instanceClassName="EClass_7_instanceClassName_-5" instanceTypeName="EClass_7_instanceTypeName_-5"/>
+  <eClassifiers xsi:type="Ecore:EDataType" name="EDataType_8_name_-5" instanceClassName="EDataType_8_instanceClassName_-5" instanceTypeName="EDataType_8_instanceTypeName_-5"/>
+  <eClassifiers xsi:type="Ecore:EDataType" name="EDataType_9_name_-5" instanceClassName="EDataType_9_instanceClassName_-5" instanceTypeName="EDataType_9_instanceTypeName_-5"/>
+  <eClassifiers xsi:type="Ecore:EEnum" name="EEnum_10_name_-5" instanceClassName="EEnum_10_instanceClassName_-5" instanceTypeName="EEnum_10_instanceTypeName_-5"/>
+  <eClassifiers xsi:type="Ecore:EEnum" name="EEnum_11_name_-5" instanceClassName="EEnum_11_instanceClassName_-5" instanceTypeName="EEnum_11_instanceTypeName_-5"/>
+  <eClassifiers xsi:type="Ecore:EEnum" name="EEnum_12_name_-5" instanceClassName="EEnum_12_instanceClassName_-5" instanceTypeName="EEnum_12_instanceTypeName_-5"/>
+  <eClassifiers xsi:type="Ecore:EEnum" name="EEnum_13_name_-5" instanceClassName="EEnum_13_instanceClassName_-5" instanceTypeName="EEnum_13_instanceTypeName_-5"/>
+  <eClassifiers xsi:type="Ecore:EClass" name="EClass_5_name_-5" instanceClassName="EClass_5_instanceClassName_-5" instanceTypeName="EClass_5_instanceTypeName_-5"/>
+  <eClassifiers xsi:type="Ecore:EClass" name="EClass_6_name_-5" instanceClassName="EClass_6_instanceClassName_-5" instanceTypeName="EClass_6_instanceTypeName_-5"/>
+  <eClassifiers xsi:type="Ecore:EClass" name="EClass_7_name_-5" instanceClassName="EClass_7_instanceClassName_-5" instanceTypeName="EClass_7_instanceTypeName_-5"/>
+  <eClassifiers xsi:type="Ecore:EDataType" name="EDataType_8_name_-5" instanceClassName="EDataType_8_instanceClassName_-5" instanceTypeName="EDataType_8_instanceTypeName_-5"/>
+  <eClassifiers xsi:type="Ecore:EDataType" name="EDataType_9_name_-5" instanceClassName="EDataType_9_instanceClassName_-5" instanceTypeName="EDataType_9_instanceTypeName_-5"/>
+  <eClassifiers xsi:type="Ecore:EEnum" name="EEnum_10_name_-5" instanceClassName="EEnum_10_instanceClassName_-5" instanceTypeName="EEnum_10_instanceTypeName_-5"/>
+  <eClassifiers xsi:type="Ecore:EEnum" name="EEnum_11_name_-5" instanceClassName="EEnum_11_instanceClassName_-5" instanceTypeName="EEnum_11_instanceTypeName_-5"/>
+  <eClassifiers xsi:type="Ecore:EEnum" name="EEnum_12_name_-5" instanceClassName="EEnum_12_instanceClassName_-5" instanceTypeName="EEnum_12_instanceTypeName_-5"/>
+  <eClassifiers xsi:type="Ecore:EEnum" name="EEnum_13_name_-5" instanceClassName="EEnum_13_instanceClassName_-5" instanceTypeName="EEnum_13_instanceTypeName_-5"/>
+  <eClassifiers xsi:type="Ecore:EClass" name="EClass_5_name_-5" instanceClassName="EClass_5_instanceClassName_-5" instanceTypeName="EClass_5_instanceTypeName_-5"/>
+  <eClassifiers xsi:type="Ecore:EClass" name="EClass_6_name_-5" instanceClassName="EClass_6_instanceClassName_-5" instanceTypeName="EClass_6_instanceTypeName_-5"/>
+  <eClassifiers xsi:type="Ecore:EClass" name="EClass_7_name_-5" instanceClassName="EClass_7_instanceClassName_-5" instanceTypeName="EClass_7_instanceTypeName_-5"/>
+  <eClassifiers xsi:type="Ecore:EDataType" name="EDataType_8_name_-5" instanceClassName="EDataType_8_instanceClassName_-5" instanceTypeName="EDataType_8_instanceTypeName_-5"/>
+  <eClassifiers xsi:type="Ecore:EDataType" name="EDataType_9_name_-5" instanceClassName="EDataType_9_instanceClassName_-5" instanceTypeName="EDataType_9_instanceTypeName_-5"/>
+  <eClassifiers xsi:type="Ecore:EEnum" name="EEnum_10_name_-5" instanceClassName="EEnum_10_instanceClassName_-5" instanceTypeName="EEnum_10_instanceTypeName_-5"/>
+  <eClassifiers xsi:type="Ecore:EEnum" name="EEnum_11_name_-5" instanceClassName="EEnum_11_instanceClassName_-5" instanceTypeName="EEnum_11_instanceTypeName_-5"/>
+  <eClassifiers xsi:type="Ecore:EEnum" name="EEnum_12_name_-5" instanceClassName="EEnum_12_instanceClassName_-5" instanceTypeName="EEnum_12_instanceTypeName_-5"/>
+  <eClassifiers xsi:type="Ecore:EEnum" name="EEnum_13_name_-5" instanceClassName="EEnum_13_instanceClassName_-5" instanceTypeName="EEnum_13_instanceTypeName_-5"/>
+  <eClassifiers xsi:type="Ecore:EClass" name="EClass_5_name_-5" instanceClassName="EClass_5_instanceClassName_-5" instanceTypeName="EClass_5_instanceTypeName_-5"/>
+  <eClassifiers xsi:type="Ecore:EClass" name="EClass_6_name_-5" instanceClassName="EClass_6_instanceClassName_-5" instanceTypeName="EClass_6_instanceTypeName_-5"/>
+  <eClassifiers xsi:type="Ecore:EClass" name="EClass_7_name_-5" instanceClassName="EClass_7_instanceClassName_-5" instanceTypeName="EClass_7_instanceTypeName_-5"/>
+  <eClassifiers xsi:type="Ecore:EDataType" name="EDataType_8_name_-5" instanceClassName="EDataType_8_instanceClassName_-5" instanceTypeName="EDataType_8_instanceTypeName_-5"/>
+  <eClassifiers xsi:type="Ecore:EDataType" name="EDataType_9_name_-5" instanceClassName="EDataType_9_instanceClassName_-5" instanceTypeName="EDataType_9_instanceTypeName_-5"/>
+  <eClassifiers xsi:type="Ecore:EEnum" name="EEnum_10_name_-5" instanceClassName="EEnum_10_instanceClassName_-5" instanceTypeName="EEnum_10_instanceTypeName_-5"/>
+  <eClassifiers xsi:type="Ecore:EEnum" name="EEnum_11_name_-5" instanceClassName="EEnum_11_instanceClassName_-5" instanceTypeName="EEnum_11_instanceTypeName_-5"/>
+  <eClassifiers xsi:type="Ecore:EEnum" name="EEnum_12_name_-5" instanceClassName="EEnum_12_instanceClassName_-5" instanceTypeName="EEnum_12_instanceTypeName_-5"/>
+  <eClassifiers xsi:type="Ecore:EEnum" name="EEnum_13_name_-5" instanceClassName="EEnum_13_instanceClassName_-5" instanceTypeName="EEnum_13_instanceTypeName_-5"/>
+</Ecore:EPackage>

@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<instance>
+  <presentation name="?" maxConstraintArity="2" format="XCSP 2.0" />
+  <domains nbDomains="100">
+    <domain name="DC1" nbValues="1">1</domain>
+    <domain name="DC1_2" nbValues="2">0 1</domain>
+    <domain name="DC_BibTeXFile" nbValues="1">1</domain>
+    <domain name="DC2" nbValues="1">2</domain>
+    <domain name="DC2_2" nbValues="3">0 2</domain>
+    <domain name="DC_Author" nbValues="2">2</domain>
+    <domain name="DC3" nbValues="1">3</domain>
+    <domain name="DC3_2" nbValues="4">0 3</domain>
+    <domain name="DC_Article" nbValues="3">3</domain>
+    <domain name="DC4" nbValues="1">4</domain>
+    <domain name="DC4_2" nbValues="5">0 4</domain>
+    <domain name="DC_TechReport" nbValues="4">4</domain>
+    <domain name="DC5" nbValues="1">5</domain>
+    <domain name="DC5_2" nbValues="6">0 5</domain>
+    <domain name="DC_Unpublished" nbValues="5">5</domain>
+    <domain name="DC6" nbValues="1">6</domain>
+    <domain name="DC6_2" nbValues="7">0 6</domain>
+    <domain name="DC_Manual" nbValues="6">6</domain>
+    <domain name="DC7" nbValues="1">7</domain>
+    <domain name="DC7_2" nbValues="8">0 7</domain>
+    <domain name="DC_Proceedings" nbValues="7">7</domain>
+    <domain name="DC8" nbValues="1">8</domain>
+    <domain name="DC8_2" nbValues="9">0 8</domain>
+    <domain name="DC_InProceedings" nbValues="8">8</domain>
+    <domain name="DC9" nbValues="1">9</domain>
+    <domain name="DC9_2" nbValues="10">0 9</domain>
+    <domain name="DC_Booklet" nbValues="9">9</domain>
+    <domain name="DC10" nbValues="1">10</domain>
+    <domain name="DC10_2" nbValues="11">0 10</domain>
+    <domain name="DC_Book" nbValues="10">10</domain>
+    <domain name="DC11" nbValues="1">11</domain>
+    <domain name="DC11_2" nbValues="12">0 11</domain>
+    <domain name="DC_InCollection" nbValues="11">11</domain>
+    <domain name="DC12" nbValues="1">12</domain>
+    <domain name="DC12_2" nbValues="13">0 12</domain>
+    <domain name="DC_InBook" nbValues="12">12</domain>
+    <domain name="DC13" nbValues="1">13</domain>
+    <domain name="DC13_2" nbValues="14">0 13</domain>
+    <domain name="DC_Misc" nbValues="13">13</domain>
+    <domain name="DC14" nbValues="1">14</domain>
+    <domain name="DC14_2" nbValues="15">0 14</domain>
+    <domain name="DC_PhDThesis" nbValues="14">14</domain>
+    <domain name="DC15" nbValues="1">15</domain>
+    <domain name="DC15_2" nbValues="16">0 15</domain>
+    <domain name="DC_MasterThesis" nbValues="15">15</domain>
+    <domain name="DF2_1" nbValues="5">-2..2</domain>
+    <domain name="DF3_1" nbValues="5">-2..2</domain>
+    <domain name="DF3_2" nbValues="5">-2..2</domain>
+    <domain name="DF3_3" nbValues="5">-2..2</domain>
+    <domain name="DF3_4" nbValues="5">-2..2</domain>
+    <domain name="DF4_1" nbValues="5">-2..2</domain>
+    <domain name="DF4_2" nbValues="5">-2..2</domain>
+    <domain name="DF4_3" nbValues="5">-2..2</domain>
+    <domain name="DF5_1" nbValues="5">-2..2</domain>
+    <domain name="DF5_2" nbValues="5">-2..2</domain>
+    <domain name="DF5_3" nbValues="5">-2..2</domain>
+    <domain name="DF6_1" nbValues="5">-2..2</domain>
+    <domain name="DF6_2" nbValues="5">-2..2</domain>
+    <domain name="DF7_1" nbValues="5">-2..2</domain>
+    <domain name="DF7_2" nbValues="5">-2..2</domain>
+    <domain name="DF7_3" nbValues="5">-2..2</domain>
+    <domain name="DF8_1" nbValues="5">-2..2</domain>
+    <domain name="DF8_2" nbValues="5">-2..2</domain>
+    <domain name="DF8_3" nbValues="5">-2..2</domain>
+    <domain name="DF8_4" nbValues="5">-2..2</domain>
+    <domain name="DF9_1" nbValues="5">-2..2</domain>
+    <domain name="DF9_2" nbValues="5">-2..2</domain>
+    <domain name="DF10_1" nbValues="5">-2..2</domain>
+    <domain name="DF10_2" nbValues="5">-2..2</domain>
+    <domain name="DF10_3" nbValues="5">-2..2</domain>
+    <domain name="DF10_4" nbValues="5">-2..2</domain>
+    <domain name="DF11_1" nbValues="5">-2..2</domain>
+    <domain name="DF11_2" nbValues="5">-2..2</domain>
+    <domain name="DF11_3" nbValues="5">-2..2</domain>
+    <domain name="DF11_4" nbValues="5">-2..2</domain>
+    <domain name="DF11_5" nbValues="5">-2..2</domain>
+    <domain name="DF12_1" nbValues="5">-2..2</domain>
+    <domain name="DF12_2" nbValues="5">-2..2</domain>
+    <domain name="DF12_3" nbValues="5">-2..2</domain>
+    <domain name="DF12_4" nbValues="5">-2..2</domain>
+    <domain name="DF12_5" nbValues="5">-2..2</domain>
+    <domain name="DF13_1" nbValues="5">-2..2</domain>
+    <domain name="DF14_1" nbValues="5">-2..2</domain>
+    <domain name="DF14_2" nbValues="5">-2..2</domain>
+    <domain name="DF14_3" nbValues="5">-2..2</domain>
+    <domain name="DF14_4" nbValues="5">-2..2</domain>
+    <domain name="DF15_1" nbValues="5">-2..2</domain>
+    <domain name="DF15_2" nbValues="5">-2..2</domain>
+    <domain name="DF15_3" nbValues="5">-2..2</domain>
+    <domain name="DF15_4" nbValues="5">-2..2</domain>
+    <domain name="DCRJ_1_1" nbValues="13">3..3 4..4 5..5 6..6 7..7 8..8 9..9 10..10 11..11 12..12 13..13 14..14 15..15</domain>
+    <domain name="DCRJ2_1_1" nbValues="15">3..3 4..4 5..5 6..6 7..7 8..8 9..9 10..10 11..11 12..12 13..13 14..14 15..15 16..18</domain>
+    <domain name="DCRJ_1_3" nbValues="1">2..2</domain>
+    <domain name="DCRJ2_1_3" nbValues="3">2..2 16..18</domain>
+    <domain name="DCRJ_1_4" nbValues="1">2..2</domain>
+    <domain name="DCRJ2_1_4" nbValues="3">2..2 16..18</domain>
+    <domain name="DCRJ_1_5" nbValues="1">2..2</domain>
+    <domain name="DCRJ2_1_5" nbValues="3">2..2 16..18</domain>
+    <domain name="DCRJ_1_8" nbValues="1">2..2</domain>
+    <domain name="DCRJ2_1_8" nbValues="3">2..2 16..18</domain>
+    <domain name="DCRJ_1_10" nbValues="1">2..2</domain>
+    <domain name="DCRJ2_1_10" nbValues="3">2..2 16..18</domain>
+    <domain name="DCRJ_1_11" nbValues="1">2..2</domain>
+    <domain name="DCRJ2_1_11" nbValues="3">2..2 16..18</domain>
+    <domain name="DCRJ_1_12" nbValues="1">2..2</domain>
+    <domain name="DCRJ2_1_12" nbValues="3">2..2 16..18</domain>
+    <domain name="DCRJ_1_14" nbValues="1">2..2</domain>
+    <domain name="DCRJ2_1_14" nbValues="3">2..2 16..18</domain>
+    <domain name="DCRJ_1_15" nbValues="1">2..2</domain>
+    <domain name="DCRJ2_1_15" nbValues="3">2..2 16..18</domain>
+  </domains>
+  <variables nbVariables="65">
+    <variable domain="DCRJ2_1_1" name="Id_BibTeXFile_1_entries_1" />
+    <variable domain="DCRJ2_1_1" name="Id_BibTeXFile_1_entries_2" />
+    <variable domain="DF2_1" name="F_Author_2_author" />
+    <variable domain="DF3_1" name="F_Article_3_id" />
+    <variable domain="DF3_2" name="F_Article_3_year" />
+    <variable domain="DF3_3" name="F_Article_3_title" />
+    <variable domain="DF3_4" name="F_Article_3_journal" />
+    <variable domain="DCRJ_1_3" name="Id_Article_3_authors_1" />
+    <variable domain="DCRJ2_1_3" name="Id_Article_3_authors_2" />
+    <variable domain="DF4_1" name="F_TechReport_4_id" />
+    <variable domain="DF4_2" name="F_TechReport_4_year" />
+    <variable domain="DF4_3" name="F_TechReport_4_title" />
+    <variable domain="DCRJ_1_4" name="Id_TechReport_4_authors_1" />
+    <variable domain="DCRJ2_1_4" name="Id_TechReport_4_authors_2" />
+    <variable domain="DF5_1" name="F_Unpublished_5_id" />
+    <variable domain="DF5_2" name="F_Unpublished_5_title" />
+    <variable domain="DF5_3" name="F_Unpublished_5_note" />
+    <variable domain="DCRJ_1_5" name="Id_Unpublished_5_authors_1" />
+    <variable domain="DCRJ2_1_5" name="Id_Unpublished_5_authors_2" />
+    <variable domain="DF6_1" name="F_Manual_6_id" />
+    <variable domain="DF6_2" name="F_Manual_6_title" />
+    <variable domain="DF7_1" name="F_Proceedings_7_id" />
+    <variable domain="DF7_2" name="F_Proceedings_7_year" />
+    <variable domain="DF7_3" name="F_Proceedings_7_title" />
+    <variable domain="DF8_1" name="F_InProceedings_8_id" />
+    <variable domain="DF8_2" name="F_InProceedings_8_year" />
+    <variable domain="DF8_3" name="F_InProceedings_8_title" />
+    <variable domain="DF8_4" name="F_InProceedings_8_booktitle" />
+    <variable domain="DCRJ_1_8" name="Id_InProceedings_8_authors_1" />
+    <variable domain="DCRJ2_1_8" name="Id_InProceedings_8_authors_2" />
+    <variable domain="DF9_1" name="F_Booklet_9_id" />
+    <variable domain="DF9_2" name="F_Booklet_9_year" />
+    <variable domain="DF10_1" name="F_Book_10_id" />
+    <variable domain="DF10_2" name="F_Book_10_year" />
+    <variable domain="DF10_3" name="F_Book_10_title" />
+    <variable domain="DF10_4" name="F_Book_10_publisher" />
+    <variable domain="DCRJ_1_10" name="Id_Book_10_authors_1" />
+    <variable domain="DCRJ2_1_10" name="Id_Book_10_authors_2" />
+    <variable domain="DF11_1" name="F_InCollection_11_id" />
+    <variable domain="DF11_2" name="F_InCollection_11_year" />
+    <variable domain="DF11_3" name="F_InCollection_11_title" />
+    <variable domain="DF11_4" name="F_InCollection_11_publisher" />
+    <variable domain="DF11_5" name="F_InCollection_11_booktitle" />
+    <variable domain="DCRJ_1_11" name="Id_InCollection_11_authors_1" />
+    <variable domain="DCRJ2_1_11" name="Id_InCollection_11_authors_2" />
+    <variable domain="DF12_1" name="F_InBook_12_id" />
+    <variable domain="DF12_2" name="F_InBook_12_year" />
+    <variable domain="DF12_3" name="F_InBook_12_title" />
+    <variable domain="DF12_4" name="F_InBook_12_publisher" />
+    <variable domain="DF12_5" name="F_InBook_12_chapter" />
+    <variable domain="DCRJ_1_12" name="Id_InBook_12_authors_1" />
+    <variable domain="DCRJ2_1_12" name="Id_InBook_12_authors_2" />
+    <variable domain="DF13_1" name="F_Misc_13_id" />
+    <variable domain="DF14_1" name="F_PhDThesis_14_id" />
+    <variable domain="DF14_2" name="F_PhDThesis_14_year" />
+    <variable domain="DF14_3" name="F_PhDThesis_14_title" />
+    <variable domain="DF14_4" name="F_PhDThesis_14_school" />
+    <variable domain="DCRJ_1_14" name="Id_PhDThesis_14_authors_1" />
+    <variable domain="DCRJ2_1_14" name="Id_PhDThesis_14_authors_2" />
+    <variable domain="DF15_1" name="F_MasterThesis_15_id" />
+    <variable domain="DF15_2" name="F_MasterThesis_15_year" />
+    <variable domain="DF15_3" name="F_MasterThesis_15_title" />
+    <variable domain="DF15_4" name="F_MasterThesis_15_school" />
+    <variable domain="DCRJ_1_15" name="Id_MasterThesis_15_authors_1" />
+    <variable domain="DCRJ2_1_15" name="Id_MasterThesis_15_authors_2" />
+  </variables>
+  <predicates nbPredicates="1">
+    <predicate name="inf">
+      <parameters>int v1 int v2</parameters>
+      <expression>
+        <functional>lt(v1,v2)</functional>
+      </expression>
+    </predicate>
+  </predicates>
+  <constraints nbConstraints="10">
+    <constraint name="ConsId_BibTeXFile_1_entries_2Id_BibTeXFile_1_entries_1" arity="2" scope="Id_BibTeXFile_1_entries_2 Id_BibTeXFile_1_entries_1" reference="inf">
+      <parameters>Id_BibTeXFile_1_entries_1 Id_BibTeXFile_1_entries_2</parameters>
+    </constraint>
+    <constraint name="ConsId_Article_3_authors_2Id_Article_3_authors_1" arity="2" scope="Id_Article_3_authors_2 Id_Article_3_authors_1" reference="inf">
+      <parameters>Id_Article_3_authors_1 Id_Article_3_authors_2</parameters>
+    </constraint>
+    <constraint name="ConsId_TechReport_4_authors_2Id_TechReport_4_authors_1" arity="2" scope="Id_TechReport_4_authors_2 Id_TechReport_4_authors_1" reference="inf">
+      <parameters>Id_TechReport_4_authors_1 Id_TechReport_4_authors_2</parameters>
+    </constraint>
+    <constraint name="ConsId_Unpublished_5_authors_2Id_Unpublished_5_authors_1" arity="2" scope="Id_Unpublished_5_authors_2 Id_Unpublished_5_authors_1" reference="inf">
+      <parameters>Id_Unpublished_5_authors_1 Id_Unpublished_5_authors_2</parameters>
+    </constraint>
+    <constraint name="ConsId_InProceedings_8_authors_2Id_InProceedings_8_authors_1" arity="2" scope="Id_InProceedings_8_authors_2 Id_InProceedings_8_authors_1" reference="inf">
+      <parameters>Id_InProceedings_8_authors_1 Id_InProceedings_8_authors_2</parameters>
+    </constraint>
+    <constraint name="ConsId_Book_10_authors_2Id_Book_10_authors_1" arity="2" scope="Id_Book_10_authors_2 Id_Book_10_authors_1" reference="inf">
+      <parameters>Id_Book_10_authors_1 Id_Book_10_authors_2</parameters>
+    </constraint>
+    <constraint name="ConsId_InCollection_11_authors_2Id_InCollection_11_authors_1" arity="2" scope="Id_InCollection_11_authors_2 Id_InCollection_11_authors_1" reference="inf">
+      <parameters>Id_InCollection_11_authors_1 Id_InCollection_11_authors_2</parameters>
+    </constraint>
+    <constraint name="ConsId_InBook_12_authors_2Id_InBook_12_authors_1" arity="2" scope="Id_InBook_12_authors_2 Id_InBook_12_authors_1" reference="inf">
+      <parameters>Id_InBook_12_authors_1 Id_InBook_12_authors_2</parameters>
+    </constraint>
+    <constraint name="ConsId_PhDThesis_14_authors_2Id_PhDThesis_14_authors_1" arity="2" scope="Id_PhDThesis_14_authors_2 Id_PhDThesis_14_authors_1" reference="inf">
+      <parameters>Id_PhDThesis_14_authors_1 Id_PhDThesis_14_authors_2</parameters>
+    </constraint>
+    <constraint name="ConsId_MasterThesis_15_authors_2Id_MasterThesis_15_authors_1" arity="2" scope="Id_MasterThesis_15_authors_2 Id_MasterThesis_15_authors_1" reference="inf">
+      <parameters>Id_MasterThesis_15_authors_1 Id_MasterThesis_15_authors_2</parameters>
+    </constraint>
+  </constraints>
+</instance>

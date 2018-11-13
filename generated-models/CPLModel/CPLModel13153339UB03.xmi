@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="ASCII"?>
+<CPL:CPLModel xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:CPL="http://cpl/1.0" xsi:schemaLocation="http://cpl/1.0 meta-models4ATL/CPL.ecore">
+  <elements xsi:type="CPL:CPL"/>
+  <elements xsi:type="CPL:SubAction" contents="//@elements.50" id="SubAction_2_id_-2"/>
+  <elements xsi:type="CPL:Outgoing" contents="//@elements.24"/>
+  <elements xsi:type="CPL:Incoming" contents="//@elements.20"/>
+  <elements xsi:type="CPL:NotPresent" contents="//@elements.48"/>
+  <elements xsi:type="CPL:Otherwise" contents="//@elements.43"/>
+  <elements xsi:type="CPL:SwitchedAddress" contents="//@elements.43" is="SwitchedAddress_7_is_-2" contains="SwitchedAddress_7_contains_-2" subDomainOf="SwitchedAddress_7_subDomainOf_-2"/>
+  <elements xsi:type="CPL:SwitchedString" contents="//@elements.76" is="SwitchedString_8_is_-2" contains="SwitchedString_8_contains_-2"/>
+  <elements xsi:type="CPL:SwitchedLanguage" contents="//@elements.77" matches="SwitchedLanguage_9_matches_-2"/>
+  <elements xsi:type="CPL:SwitchedTime" contents="//@elements.19" dtstart="SwitchedTime_10_dtstart_-2" dtend="SwitchedTime_10_dtend_-2" duration="SwitchedTime_10_duration_-2" freq="SwitchedTime_10_freq_-2" until="SwitchedTime_10_until_-2" count="SwitchedTime_10_count_-2" interval="SwitchedTime_10_interval_-2" bySecond="SwitchedTime_10_bySecond_-2" byMinute="SwitchedTime_10_byMinute_-2" byHour="SwitchedTime_10_byHour_-2" byDay="SwitchedTime_10_byDay_-2" byMonthDay="SwitchedTime_10_byMonthDay_-2" byYearDay="SwitchedTime_10_byYearDay_-2" byWeekNo="SwitchedTime_10_byWeekNo_-2" byMonth="SwitchedTime_10_byMonth_-2" wkst="SwitchedTime_10_wkst_-2" bySetPos="SwitchedTime_10_bySetPos_-2"/>
+  <elements xsi:type="CPL:SwitchedPriority" contents="//@elements.69" less="SwitchedPriority_11_less_-2" greater="SwitchedPriority_11_greater_-2" equal="SwitchedPriority_11_equal_-2"/>
+  <elements xsi:type="CPL:Busy" contents="//@elements.24"/>
+  <elements xsi:type="CPL:NoAnswer" contents="//@elements.73"/>
+  <elements xsi:type="CPL:Redirection" contents="//@elements.69"/>
+  <elements xsi:type="CPL:Failure" contents="//@elements.68"/>
+  <elements xsi:type="CPL:Default" contents="//@elements.43"/>
+  <elements xsi:type="CPL:AddressSwitch" field="AddressSwitch_17_field_-2" subField="AddressSwitch_17_subField_-2"/>
+  <elements xsi:type="CPL:StringSwitch" field="StringSwitch_18_field_-2"/>
+  <elements xsi:type="CPL:LanguageSwitch"/>
+  <elements xsi:type="CPL:TimeSwitch" tzid="TimeSwitch_20_tzid_-2" tzurl="TimeSwitch_20_tzurl_-2"/>
+  <elements xsi:type="CPL:PrioritySwitch"/>
+  <elements xsi:type="CPL:Location" contents="//@elements.72" url="Location_22_url_-2" priority="Location_22_priority_-2" clear="Location_22_clear_-2"/>
+  <elements xsi:type="CPL:SubCall" ref="SubCall_23_ref_-2"/>
+  <elements xsi:type="CPL:Proxy" timeout="Proxy_24_timeout_-2" recurse="Proxy_24_recurse_-2" ordering="Proxy_24_ordering_-2"/>
+  <elements xsi:type="CPL:Redirect" permanent="Redirect_25_permanent_-2"/>
+  <elements xsi:type="CPL:Reject" status="Reject_26_status_-2" reason="Reject_26_reason_-2"/>
+  <elements xsi:type="CPL:CPL"/>
+  <elements xsi:type="CPL:SubAction" id="SubAction_2_id_-2"/>
+  <elements xsi:type="CPL:Outgoing"/>
+  <elements xsi:type="CPL:Incoming"/>
+  <elements xsi:type="CPL:NotPresent"/>
+  <elements xsi:type="CPL:Otherwise"/>
+  <elements xsi:type="CPL:SwitchedAddress" is="SwitchedAddress_7_is_-2" contains="SwitchedAddress_7_contains_-2" subDomainOf="SwitchedAddress_7_subDomainOf_-2"/>
+  <elements xsi:type="CPL:SwitchedString" is="SwitchedString_8_is_-2" contains="SwitchedString_8_contains_-2"/>
+  <elements xsi:type="CPL:SwitchedLanguage" matches="SwitchedLanguage_9_matches_-2"/>
+  <elements xsi:type="CPL:SwitchedTime" dtstart="SwitchedTime_10_dtstart_-2" dtend="SwitchedTime_10_dtend_-2" duration="SwitchedTime_10_duration_-2" freq="SwitchedTime_10_freq_-2" until="SwitchedTime_10_until_-2" count="SwitchedTime_10_count_-2" interval="SwitchedTime_10_interval_-2" bySecond="SwitchedTime_10_bySecond_-2" byMinute="SwitchedTime_10_byMinute_-2" byHour="SwitchedTime_10_byHour_-2" byDay="SwitchedTime_10_byDay_-2" byMonthDay="SwitchedTime_10_byMonthDay_-2" byYearDay="SwitchedTime_10_byYearDay_-2" byWeekNo="SwitchedTime_10_byWeekNo_-2" byMonth="SwitchedTime_10_byMonth_-2" wkst="SwitchedTime_10_wkst_-2" bySetPos="SwitchedTime_10_bySetPos_-2"/>
+  <elements xsi:type="CPL:SwitchedPriority" less="SwitchedPriority_11_less_-2" greater="SwitchedPriority_11_greater_-2" equal="SwitchedPriority_11_equal_-2"/>
+  <elements xsi:type="CPL:Busy"/>
+  <elements xsi:type="CPL:NoAnswer"/>
+  <elements xsi:type="CPL:Redirection"/>
+  <elements xsi:type="CPL:Failure"/>
+  <elements xsi:type="CPL:Default"/>
+  <elements xsi:type="CPL:AddressSwitch" field="AddressSwitch_17_field_-2" subField="AddressSwitch_17_subField_-2"/>
+  <elements xsi:type="CPL:StringSwitch" field="StringSwitch_18_field_-2"/>
+  <elements xsi:type="CPL:LanguageSwitch"/>
+  <elements xsi:type="CPL:TimeSwitch" tzid="TimeSwitch_20_tzid_-2" tzurl="TimeSwitch_20_tzurl_-2"/>
+  <elements xsi:type="CPL:PrioritySwitch"/>
+  <elements xsi:type="CPL:Location" url="Location_22_url_-2" priority="Location_22_priority_-2" clear="Location_22_clear_-2"/>
+  <elements xsi:type="CPL:SubCall" ref="SubCall_23_ref_-2"/>
+  <elements xsi:type="CPL:Proxy" timeout="Proxy_24_timeout_-2" recurse="Proxy_24_recurse_-2" ordering="Proxy_24_ordering_-2"/>
+  <elements xsi:type="CPL:Redirect" permanent="Redirect_25_permanent_-2"/>
+  <elements xsi:type="CPL:Reject" status="Reject_26_status_-2" reason="Reject_26_reason_-2"/>
+  <elements xsi:type="CPL:CPL"/>
+  <elements xsi:type="CPL:SubAction" id="SubAction_2_id_-2"/>
+  <elements xsi:type="CPL:Outgoing"/>
+  <elements xsi:type="CPL:Incoming"/>
+  <elements xsi:type="CPL:NotPresent"/>
+  <elements xsi:type="CPL:Otherwise"/>
+  <elements xsi:type="CPL:SwitchedAddress" is="SwitchedAddress_7_is_-2" contains="SwitchedAddress_7_contains_-2" subDomainOf="SwitchedAddress_7_subDomainOf_-2"/>
+  <elements xsi:type="CPL:SwitchedString" is="SwitchedString_8_is_-2" contains="SwitchedString_8_contains_-2"/>
+  <elements xsi:type="CPL:SwitchedLanguage" matches="SwitchedLanguage_9_matches_-2"/>
+  <elements xsi:type="CPL:SwitchedTime" dtstart="SwitchedTime_10_dtstart_-2" dtend="SwitchedTime_10_dtend_-2" duration="SwitchedTime_10_duration_-2" freq="SwitchedTime_10_freq_-2" until="SwitchedTime_10_until_-2" count="SwitchedTime_10_count_-2" interval="SwitchedTime_10_interval_-2" bySecond="SwitchedTime_10_bySecond_-2" byMinute="SwitchedTime_10_byMinute_-2" byHour="SwitchedTime_10_byHour_-2" byDay="SwitchedTime_10_byDay_-2" byMonthDay="SwitchedTime_10_byMonthDay_-2" byYearDay="SwitchedTime_10_byYearDay_-2" byWeekNo="SwitchedTime_10_byWeekNo_-2" byMonth="SwitchedTime_10_byMonth_-2" wkst="SwitchedTime_10_wkst_-2" bySetPos="SwitchedTime_10_bySetPos_-2"/>
+  <elements xsi:type="CPL:SwitchedPriority" less="SwitchedPriority_11_less_-2" greater="SwitchedPriority_11_greater_-2" equal="SwitchedPriority_11_equal_-2"/>
+  <elements xsi:type="CPL:Busy"/>
+  <elements xsi:type="CPL:NoAnswer"/>
+  <elements xsi:type="CPL:Redirection"/>
+  <elements xsi:type="CPL:Failure"/>
+  <elements xsi:type="CPL:Default"/>
+  <elements xsi:type="CPL:AddressSwitch" field="AddressSwitch_17_field_-2" subField="AddressSwitch_17_subField_-2"/>
+  <elements xsi:type="CPL:StringSwitch" field="StringSwitch_18_field_-2"/>
+  <elements xsi:type="CPL:LanguageSwitch"/>
+  <elements xsi:type="CPL:TimeSwitch" tzid="TimeSwitch_20_tzid_-2" tzurl="TimeSwitch_20_tzurl_-2"/>
+  <elements xsi:type="CPL:PrioritySwitch"/>
+  <elements xsi:type="CPL:Location" url="Location_22_url_-2" priority="Location_22_priority_-2" clear="Location_22_clear_-2"/>
+  <elements xsi:type="CPL:SubCall" ref="SubCall_23_ref_-2"/>
+  <elements xsi:type="CPL:Proxy" timeout="Proxy_24_timeout_-2" recurse="Proxy_24_recurse_-2" ordering="Proxy_24_ordering_-2"/>
+  <elements xsi:type="CPL:Redirect" permanent="Redirect_25_permanent_-2"/>
+  <elements xsi:type="CPL:Reject" status="Reject_26_status_-2" reason="Reject_26_reason_-2"/>
+</CPL:CPLModel>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="ASCII"?>
+<Ecore:EPackage xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:Ecore="http://Ecore" xsi:schemaLocation="http://Ecore meta-models/Ecore.ecore" name="Ecore_-4" nsURI="Ecore_-4" nsPrefix="Ecore_-4">
+  <eClassifiers xsi:type="Ecore:EClass" name="EClass_3_name_-4" instanceClassName="EClass_3_instanceClassName_-4" instanceTypeName="EClass_3_instanceTypeName_-4"/>
+  <eClassifiers xsi:type="Ecore:EDataType" name="EDataType_4_name_-4" instanceClassName="EDataType_4_instanceClassName_-4" instanceTypeName="EDataType_4_instanceTypeName_-4"/>
+  <eClassifiers xsi:type="Ecore:EDataType" name="EDataType_5_name_-4" instanceClassName="EDataType_5_instanceClassName_-4" instanceTypeName="EDataType_5_instanceTypeName_-4"/>
+  <eClassifiers xsi:type="Ecore:EDataType" name="EDataType_6_name_-4" instanceClassName="EDataType_6_instanceClassName_-4" instanceTypeName="EDataType_6_instanceTypeName_-4"/>
+  <eClassifiers xsi:type="Ecore:EEnum" name="EEnum_7_name_-4" instanceClassName="EEnum_7_instanceClassName_-4" instanceTypeName="EEnum_7_instanceTypeName_-4"/>
+  <eClassifiers xsi:type="Ecore:EEnum" name="EEnum_8_name_-4" instanceClassName="EEnum_8_instanceClassName_-4" instanceTypeName="EEnum_8_instanceTypeName_-4"/>
+  <eClassifiers xsi:type="Ecore:EEnum" name="EEnum_9_name_-4" instanceClassName="EEnum_9_instanceClassName_-4" instanceTypeName="EEnum_9_instanceTypeName_-4"/>
+  <eClassifiers xsi:type="Ecore:EClass" name="EClass_3_name_-4" instanceClassName="EClass_3_instanceClassName_-4" instanceTypeName="EClass_3_instanceTypeName_-4"/>
+  <eClassifiers xsi:type="Ecore:EDataType" name="EDataType_4_name_-4" instanceClassName="EDataType_4_instanceClassName_-4" instanceTypeName="EDataType_4_instanceTypeName_-4"/>
+  <eClassifiers xsi:type="Ecore:EDataType" name="EDataType_5_name_-4" instanceClassName="EDataType_5_instanceClassName_-4" instanceTypeName="EDataType_5_instanceTypeName_-4"/>
+  <eClassifiers xsi:type="Ecore:EDataType" name="EDataType_6_name_-4" instanceClassName="EDataType_6_instanceClassName_-4" instanceTypeName="EDataType_6_instanceTypeName_-4"/>
+  <eClassifiers xsi:type="Ecore:EEnum" name="EEnum_7_name_-4" instanceClassName="EEnum_7_instanceClassName_-4" instanceTypeName="EEnum_7_instanceTypeName_-4"/>
+  <eClassifiers xsi:type="Ecore:EEnum" name="EEnum_8_name_-4" instanceClassName="EEnum_8_instanceClassName_-4" instanceTypeName="EEnum_8_instanceTypeName_-4"/>
+  <eClassifiers xsi:type="Ecore:EEnum" name="EEnum_9_name_-4" instanceClassName="EEnum_9_instanceClassName_-4" instanceTypeName="EEnum_9_instanceTypeName_-4"/>
+</Ecore:EPackage>

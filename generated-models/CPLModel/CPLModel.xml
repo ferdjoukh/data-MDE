@@ -1,0 +1,331 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<instance>
+  <presentation name="?" maxConstraintArity="2" format="XCSP 2.0" />
+  <domains nbDomains="163">
+    <domain name="DC1" nbValues="1">1</domain>
+    <domain name="DC1_2" nbValues="2">0 1</domain>
+    <domain name="DC_CPL" nbValues="1">1</domain>
+    <domain name="DC2" nbValues="1">2</domain>
+    <domain name="DC2_2" nbValues="3">0 2</domain>
+    <domain name="DC_SubAction" nbValues="2">2</domain>
+    <domain name="DC3" nbValues="1">3</domain>
+    <domain name="DC3_2" nbValues="4">0 3</domain>
+    <domain name="DC_Outgoing" nbValues="3">3</domain>
+    <domain name="DC4" nbValues="1">4</domain>
+    <domain name="DC4_2" nbValues="5">0 4</domain>
+    <domain name="DC_Incoming" nbValues="4">4</domain>
+    <domain name="DC5" nbValues="1">5</domain>
+    <domain name="DC5_2" nbValues="6">0 5</domain>
+    <domain name="DC_NotPresent" nbValues="5">5</domain>
+    <domain name="DC6" nbValues="1">6</domain>
+    <domain name="DC6_2" nbValues="7">0 6</domain>
+    <domain name="DC_Otherwise" nbValues="6">6</domain>
+    <domain name="DC7" nbValues="1">7</domain>
+    <domain name="DC7_2" nbValues="8">0 7</domain>
+    <domain name="DC_SwitchedAddress" nbValues="7">7</domain>
+    <domain name="DC8" nbValues="1">8</domain>
+    <domain name="DC8_2" nbValues="9">0 8</domain>
+    <domain name="DC_SwitchedString" nbValues="8">8</domain>
+    <domain name="DC9" nbValues="1">9</domain>
+    <domain name="DC9_2" nbValues="10">0 9</domain>
+    <domain name="DC_SwitchedLanguage" nbValues="9">9</domain>
+    <domain name="DC10" nbValues="1">10</domain>
+    <domain name="DC10_2" nbValues="11">0 10</domain>
+    <domain name="DC_SwitchedTime" nbValues="10">10</domain>
+    <domain name="DC11" nbValues="1">11</domain>
+    <domain name="DC11_2" nbValues="12">0 11</domain>
+    <domain name="DC_SwitchedPriority" nbValues="11">11</domain>
+    <domain name="DC12" nbValues="1">12</domain>
+    <domain name="DC12_2" nbValues="13">0 12</domain>
+    <domain name="DC_Busy" nbValues="12">12</domain>
+    <domain name="DC13" nbValues="1">13</domain>
+    <domain name="DC13_2" nbValues="14">0 13</domain>
+    <domain name="DC_NoAnswer" nbValues="13">13</domain>
+    <domain name="DC14" nbValues="1">14</domain>
+    <domain name="DC14_2" nbValues="15">0 14</domain>
+    <domain name="DC_Redirection" nbValues="14">14</domain>
+    <domain name="DC15" nbValues="1">15</domain>
+    <domain name="DC15_2" nbValues="16">0 15</domain>
+    <domain name="DC_Failure" nbValues="15">15</domain>
+    <domain name="DC16" nbValues="1">16</domain>
+    <domain name="DC16_2" nbValues="17">0 16</domain>
+    <domain name="DC_Default" nbValues="16">16</domain>
+    <domain name="DC17" nbValues="1">17</domain>
+    <domain name="DC17_2" nbValues="18">0 17</domain>
+    <domain name="DC_AddressSwitch" nbValues="17">17</domain>
+    <domain name="DC18" nbValues="1">18</domain>
+    <domain name="DC18_2" nbValues="19">0 18</domain>
+    <domain name="DC_StringSwitch" nbValues="18">18</domain>
+    <domain name="DC19" nbValues="1">19</domain>
+    <domain name="DC19_2" nbValues="20">0 19</domain>
+    <domain name="DC_LanguageSwitch" nbValues="19">19</domain>
+    <domain name="DC20" nbValues="1">20</domain>
+    <domain name="DC20_2" nbValues="21">0 20</domain>
+    <domain name="DC_TimeSwitch" nbValues="20">20</domain>
+    <domain name="DC21" nbValues="1">21</domain>
+    <domain name="DC21_2" nbValues="22">0 21</domain>
+    <domain name="DC_PrioritySwitch" nbValues="21">21</domain>
+    <domain name="DC22" nbValues="1">22</domain>
+    <domain name="DC22_2" nbValues="23">0 22</domain>
+    <domain name="DC_Location" nbValues="22">22</domain>
+    <domain name="DC23" nbValues="1">23</domain>
+    <domain name="DC23_2" nbValues="24">0 23</domain>
+    <domain name="DC_SubCall" nbValues="23">23</domain>
+    <domain name="DC24" nbValues="1">24</domain>
+    <domain name="DC24_2" nbValues="25">0 24</domain>
+    <domain name="DC_Proxy" nbValues="24">24</domain>
+    <domain name="DC25" nbValues="1">25</domain>
+    <domain name="DC25_2" nbValues="26">0 25</domain>
+    <domain name="DC_Redirect" nbValues="25">25</domain>
+    <domain name="DC26" nbValues="1">26</domain>
+    <domain name="DC26_2" nbValues="27">0 26</domain>
+    <domain name="DC_Reject" nbValues="26">26</domain>
+    <domain name="DC27" nbValues="1">27</domain>
+    <domain name="DC27_2" nbValues="28">0 27</domain>
+    <domain name="DC_CPLModel" nbValues="27">27</domain>
+    <domain name="DF2_1" nbValues="5">-2..2</domain>
+    <domain name="DF7_1" nbValues="5">-2..2</domain>
+    <domain name="DF7_2" nbValues="5">-2..2</domain>
+    <domain name="DF7_3" nbValues="5">-2..2</domain>
+    <domain name="DF8_1" nbValues="5">-2..2</domain>
+    <domain name="DF8_2" nbValues="5">-2..2</domain>
+    <domain name="DF9_1" nbValues="5">-2..2</domain>
+    <domain name="DF10_1" nbValues="5">-2..2</domain>
+    <domain name="DF10_2" nbValues="5">-2..2</domain>
+    <domain name="DF10_3" nbValues="5">-2..2</domain>
+    <domain name="DF10_4" nbValues="5">-2..2</domain>
+    <domain name="DF10_5" nbValues="5">-2..2</domain>
+    <domain name="DF10_6" nbValues="5">-2..2</domain>
+    <domain name="DF10_7" nbValues="5">-2..2</domain>
+    <domain name="DF10_8" nbValues="5">-2..2</domain>
+    <domain name="DF10_9" nbValues="5">-2..2</domain>
+    <domain name="DF10_10" nbValues="5">-2..2</domain>
+    <domain name="DF10_11" nbValues="5">-2..2</domain>
+    <domain name="DF10_12" nbValues="5">-2..2</domain>
+    <domain name="DF10_13" nbValues="5">-2..2</domain>
+    <domain name="DF10_14" nbValues="5">-2..2</domain>
+    <domain name="DF10_15" nbValues="5">-2..2</domain>
+    <domain name="DF10_16" nbValues="5">-2..2</domain>
+    <domain name="DF10_17" nbValues="5">-2..2</domain>
+    <domain name="DF11_1" nbValues="5">-2..2</domain>
+    <domain name="DF11_2" nbValues="5">-2..2</domain>
+    <domain name="DF11_3" nbValues="5">-2..2</domain>
+    <domain name="DF17_1" nbValues="5">-2..2</domain>
+    <domain name="DF17_2" nbValues="5">-2..2</domain>
+    <domain name="DF18_1" nbValues="5">-2..2</domain>
+    <domain name="DF20_1" nbValues="5">-2..2</domain>
+    <domain name="DF20_2" nbValues="5">-2..2</domain>
+    <domain name="DF22_1" nbValues="5">-2..2</domain>
+    <domain name="DF22_2" nbValues="5">-2..2</domain>
+    <domain name="DF22_3" nbValues="5">-2..2</domain>
+    <domain name="DF23_1" nbValues="5">-2..2</domain>
+    <domain name="DF24_1" nbValues="5">-2..2</domain>
+    <domain name="DF24_2" nbValues="5">-2..2</domain>
+    <domain name="DF24_3" nbValues="5">-2..2</domain>
+    <domain name="DF25_1" nbValues="5">-2..2</domain>
+    <domain name="DF26_1" nbValues="5">-2..2</domain>
+    <domain name="DF26_2" nbValues="5">-2..2</domain>
+    <domain name="DCRJ_1_1" nbValues="1">2..2</domain>
+    <domain name="DCRJ2_1_1" nbValues="3">2..2 28..30</domain>
+    <domain name="DCRJ_2_1" nbValues="1">3..3</domain>
+    <domain name="DCRJ2_2_1" nbValues="3">3..3 28..30</domain>
+    <domain name="DCRJ_3_1" nbValues="1">4..4</domain>
+    <domain name="DCRJ2_3_1" nbValues="3">4..4 28..30</domain>
+    <domain name="DCRJ_1_2" nbValues="10">17..17 18..18 19..19 20..20 21..21 22..22 23..23 24..24 25..25 26..26</domain>
+    <domain name="DCRJ2_1_2" nbValues="12">17..17 18..18 19..19 20..20 21..21 22..22 23..23 24..24 25..25 26..26 28..30</domain>
+    <domain name="DCRJ_1_3" nbValues="10">17..17 18..18 19..19 20..20 21..21 22..22 23..23 24..24 25..25 26..26</domain>
+    <domain name="DCRJ2_1_3" nbValues="12">17..17 18..18 19..19 20..20 21..21 22..22 23..23 24..24 25..25 26..26 28..30</domain>
+    <domain name="DCRJ_1_4" nbValues="10">17..17 18..18 19..19 20..20 21..21 22..22 23..23 24..24 25..25 26..26</domain>
+    <domain name="DCRJ2_1_4" nbValues="12">17..17 18..18 19..19 20..20 21..21 22..22 23..23 24..24 25..25 26..26 28..30</domain>
+    <domain name="DCRJ_1_5" nbValues="10">17..17 18..18 19..19 20..20 21..21 22..22 23..23 24..24 25..25 26..26</domain>
+    <domain name="DCRJ2_1_5" nbValues="12">17..17 18..18 19..19 20..20 21..21 22..22 23..23 24..24 25..25 26..26 28..30</domain>
+    <domain name="DCRJ_1_6" nbValues="10">17..17 18..18 19..19 20..20 21..21 22..22 23..23 24..24 25..25 26..26</domain>
+    <domain name="DCRJ2_1_6" nbValues="12">17..17 18..18 19..19 20..20 21..21 22..22 23..23 24..24 25..25 26..26 28..30</domain>
+    <domain name="DCRJ_1_7" nbValues="10">17..17 18..18 19..19 20..20 21..21 22..22 23..23 24..24 25..25 26..26</domain>
+    <domain name="DCRJ2_1_7" nbValues="12">17..17 18..18 19..19 20..20 21..21 22..22 23..23 24..24 25..25 26..26 28..30</domain>
+    <domain name="DCRJ_1_8" nbValues="10">17..17 18..18 19..19 20..20 21..21 22..22 23..23 24..24 25..25 26..26</domain>
+    <domain name="DCRJ2_1_8" nbValues="12">17..17 18..18 19..19 20..20 21..21 22..22 23..23 24..24 25..25 26..26 28..30</domain>
+    <domain name="DCRJ_1_9" nbValues="10">17..17 18..18 19..19 20..20 21..21 22..22 23..23 24..24 25..25 26..26</domain>
+    <domain name="DCRJ2_1_9" nbValues="12">17..17 18..18 19..19 20..20 21..21 22..22 23..23 24..24 25..25 26..26 28..30</domain>
+    <domain name="DCRJ_1_10" nbValues="10">17..17 18..18 19..19 20..20 21..21 22..22 23..23 24..24 25..25 26..26</domain>
+    <domain name="DCRJ2_1_10" nbValues="12">17..17 18..18 19..19 20..20 21..21 22..22 23..23 24..24 25..25 26..26 28..30</domain>
+    <domain name="DCRJ_1_11" nbValues="10">17..17 18..18 19..19 20..20 21..21 22..22 23..23 24..24 25..25 26..26</domain>
+    <domain name="DCRJ2_1_11" nbValues="12">17..17 18..18 19..19 20..20 21..21 22..22 23..23 24..24 25..25 26..26 28..30</domain>
+    <domain name="DCRJ_1_12" nbValues="10">17..17 18..18 19..19 20..20 21..21 22..22 23..23 24..24 25..25 26..26</domain>
+    <domain name="DCRJ2_1_12" nbValues="12">17..17 18..18 19..19 20..20 21..21 22..22 23..23 24..24 25..25 26..26 28..30</domain>
+    <domain name="DCRJ_1_13" nbValues="10">17..17 18..18 19..19 20..20 21..21 22..22 23..23 24..24 25..25 26..26</domain>
+    <domain name="DCRJ2_1_13" nbValues="12">17..17 18..18 19..19 20..20 21..21 22..22 23..23 24..24 25..25 26..26 28..30</domain>
+    <domain name="DCRJ_1_14" nbValues="10">17..17 18..18 19..19 20..20 21..21 22..22 23..23 24..24 25..25 26..26</domain>
+    <domain name="DCRJ2_1_14" nbValues="12">17..17 18..18 19..19 20..20 21..21 22..22 23..23 24..24 25..25 26..26 28..30</domain>
+    <domain name="DCRJ_1_15" nbValues="10">17..17 18..18 19..19 20..20 21..21 22..22 23..23 24..24 25..25 26..26</domain>
+    <domain name="DCRJ2_1_15" nbValues="12">17..17 18..18 19..19 20..20 21..21 22..22 23..23 24..24 25..25 26..26 28..30</domain>
+    <domain name="DCRJ_1_16" nbValues="10">17..17 18..18 19..19 20..20 21..21 22..22 23..23 24..24 25..25 26..26</domain>
+    <domain name="DCRJ2_1_16" nbValues="12">17..17 18..18 19..19 20..20 21..21 22..22 23..23 24..24 25..25 26..26 28..30</domain>
+    <domain name="DCRJ_1_17" nbValues="1">5..5</domain>
+    <domain name="DCRJ2_1_17" nbValues="3">5..5 28..30</domain>
+    <domain name="DCRJ_2_17" nbValues="1">6..6</domain>
+    <domain name="DCRJ2_2_17" nbValues="3">6..6 28..30</domain>
+    <domain name="DCRJ_3_17" nbValues="1">7..7</domain>
+    <domain name="DCRJ2_3_17" nbValues="3">7..7 28..30</domain>
+    <domain name="DCRJ_1_18" nbValues="1">5..5</domain>
+    <domain name="DCRJ2_1_18" nbValues="3">5..5 28..30</domain>
+    <domain name="DCRJ_2_18" nbValues="1">6..6</domain>
+    <domain name="DCRJ2_2_18" nbValues="3">6..6 28..30</domain>
+    <domain name="DCRJ_3_18" nbValues="1">8..8</domain>
+    <domain name="DCRJ2_3_18" nbValues="3">8..8 28..30</domain>
+    <domain name="DCRJ_1_19" nbValues="1">5..5</domain>
+    <domain name="DCRJ2_1_19" nbValues="3">5..5 28..30</domain>
+    <domain name="DCRJ_2_19" nbValues="1">6..6</domain>
+    <domain name="DCRJ2_2_19" nbValues="3">6..6 28..30</domain>
+    <domain name="DCRJ_3_19" nbValues="1">9..9</domain>
+    <domain name="DCRJ2_3_19" nbValues="3">9..9 28..30</domain>
+    <domain name="DCRJ_1_20" nbValues="1">5..5</domain>
+    <domain name="DCRJ2_1_20" nbValues="3">5..5 28..30</domain>
+    <domain name="DCRJ_2_20" nbValues="1">6..6</domain>
+    <domain name="DCRJ2_2_20" nbValues="3">6..6 28..30</domain>
+    <domain name="DCRJ_3_20" nbValues="1">10..10</domain>
+    <domain name="DCRJ2_3_20" nbValues="3">10..10 28..30</domain>
+    <domain name="DCRJ_1_21" nbValues="1">5..5</domain>
+    <domain name="DCRJ2_1_21" nbValues="3">5..5 28..30</domain>
+    <domain name="DCRJ_2_21" nbValues="1">6..6</domain>
+    <domain name="DCRJ2_2_21" nbValues="3">6..6 28..30</domain>
+    <domain name="DCRJ_3_21" nbValues="1">11..11</domain>
+    <domain name="DCRJ2_3_21" nbValues="3">11..11 28..30</domain>
+    <domain name="DCRJ_1_22" nbValues="10">17..17 18..18 19..19 20..20 21..21 22..22 23..23 24..24 25..25 26..26</domain>
+    <domain name="DCRJ2_1_22" nbValues="12">17..17 18..18 19..19 20..20 21..21 22..22 23..23 24..24 25..25 26..26 28..30</domain>
+    <domain name="DCRJ_1_24" nbValues="1">12..12</domain>
+    <domain name="DCRJ2_1_24" nbValues="3">12..12 28..30</domain>
+    <domain name="DCRJ_2_24" nbValues="1">13..13</domain>
+    <domain name="DCRJ2_2_24" nbValues="3">13..13 28..30</domain>
+    <domain name="DCRJ_3_24" nbValues="1">14..14</domain>
+    <domain name="DCRJ2_3_24" nbValues="3">14..14 28..30</domain>
+    <domain name="DCRJ_4_24" nbValues="1">15..15</domain>
+    <domain name="DCRJ2_4_24" nbValues="3">15..15 28..30</domain>
+    <domain name="DCRJ_5_24" nbValues="1">16..16</domain>
+    <domain name="DCRJ2_5_24" nbValues="3">16..16 28..30</domain>
+    <domain name="DCRJ_1_27" nbValues="26">1..1 2..2 3..3 4..4 5..5 6..6 7..7 8..8 9..9 10..10 11..11 12..12 13..13 14..14 15..15 16..16 17..17 18..18 19..19 20..20 21..21 22..22 23..23 24..24 25..25 26..26</domain>
+    <domain name="DCRJ2_1_27" nbValues="28">1..1 2..2 3..3 4..4 5..5 6..6 7..7 8..8 9..9 10..10 11..11 12..12 13..13 14..14 15..15 16..16 17..17 18..18 19..19 20..20 21..21 22..22 23..23 24..24 25..25 26..26 28..30</domain>
+  </domains>
+  <variables nbVariables="89">
+    <variable domain="DCRJ2_1_1" name="Id_CPL_1_subActions_1" />
+    <variable domain="DCRJ2_1_1" name="Id_CPL_1_subActions_2" />
+    <variable domain="DCRJ2_2_1" name="Id_CPL_1_outgoing_1" />
+    <variable domain="DCRJ2_3_1" name="Id_CPL_1_incoming_1" />
+    <variable domain="DF2_1" name="F_SubAction_2_id" />
+    <variable domain="DCRJ2_1_2" name="Id_SubAction_2_contents_1" />
+    <variable domain="DCRJ2_1_3" name="Id_Outgoing_3_contents_1" />
+    <variable domain="DCRJ2_1_4" name="Id_Incoming_4_contents_1" />
+    <variable domain="DCRJ2_1_5" name="Id_NotPresent_5_contents_1" />
+    <variable domain="DCRJ2_1_6" name="Id_Otherwise_6_contents_1" />
+    <variable domain="DF7_1" name="F_SwitchedAddress_7_is" />
+    <variable domain="DF7_2" name="F_SwitchedAddress_7_contains" />
+    <variable domain="DF7_3" name="F_SwitchedAddress_7_subDomainOf" />
+    <variable domain="DCRJ2_1_7" name="Id_SwitchedAddress_7_contents_1" />
+    <variable domain="DF8_1" name="F_SwitchedString_8_is" />
+    <variable domain="DF8_2" name="F_SwitchedString_8_contains" />
+    <variable domain="DCRJ2_1_8" name="Id_SwitchedString_8_contents_1" />
+    <variable domain="DF9_1" name="F_SwitchedLanguage_9_matches" />
+    <variable domain="DCRJ2_1_9" name="Id_SwitchedLanguage_9_contents_1" />
+    <variable domain="DF10_1" name="F_SwitchedTime_10_dtstart" />
+    <variable domain="DF10_2" name="F_SwitchedTime_10_dtend" />
+    <variable domain="DF10_3" name="F_SwitchedTime_10_duration" />
+    <variable domain="DF10_4" name="F_SwitchedTime_10_freq" />
+    <variable domain="DF10_5" name="F_SwitchedTime_10_until" />
+    <variable domain="DF10_6" name="F_SwitchedTime_10_count" />
+    <variable domain="DF10_7" name="F_SwitchedTime_10_interval" />
+    <variable domain="DF10_8" name="F_SwitchedTime_10_bySecond" />
+    <variable domain="DF10_9" name="F_SwitchedTime_10_byMinute" />
+    <variable domain="DF10_10" name="F_SwitchedTime_10_byHour" />
+    <variable domain="DF10_11" name="F_SwitchedTime_10_byDay" />
+    <variable domain="DF10_12" name="F_SwitchedTime_10_byMonthDay" />
+    <variable domain="DF10_13" name="F_SwitchedTime_10_byYearDay" />
+    <variable domain="DF10_14" name="F_SwitchedTime_10_byWeekNo" />
+    <variable domain="DF10_15" name="F_SwitchedTime_10_byMonth" />
+    <variable domain="DF10_16" name="F_SwitchedTime_10_wkst" />
+    <variable domain="DF10_17" name="F_SwitchedTime_10_bySetPos" />
+    <variable domain="DCRJ2_1_10" name="Id_SwitchedTime_10_contents_1" />
+    <variable domain="DF11_1" name="F_SwitchedPriority_11_less" />
+    <variable domain="DF11_2" name="F_SwitchedPriority_11_greater" />
+    <variable domain="DF11_3" name="F_SwitchedPriority_11_equal" />
+    <variable domain="DCRJ2_1_11" name="Id_SwitchedPriority_11_contents_1" />
+    <variable domain="DCRJ2_1_12" name="Id_Busy_12_contents_1" />
+    <variable domain="DCRJ2_1_13" name="Id_NoAnswer_13_contents_1" />
+    <variable domain="DCRJ2_1_14" name="Id_Redirection_14_contents_1" />
+    <variable domain="DCRJ2_1_15" name="Id_Failure_15_contents_1" />
+    <variable domain="DCRJ2_1_16" name="Id_Default_16_contents_1" />
+    <variable domain="DF17_1" name="F_AddressSwitch_17_field" />
+    <variable domain="DF17_2" name="F_AddressSwitch_17_subField" />
+    <variable domain="DCRJ2_1_17" name="Id_AddressSwitch_17_notPresent_1" />
+    <variable domain="DCRJ2_2_17" name="Id_AddressSwitch_17_otherwise_1" />
+    <variable domain="DCRJ2_3_17" name="Id_AddressSwitch_17_addresses_1" />
+    <variable domain="DCRJ2_3_17" name="Id_AddressSwitch_17_addresses_2" />
+    <variable domain="DF18_1" name="F_StringSwitch_18_field" />
+    <variable domain="DCRJ2_1_18" name="Id_StringSwitch_18_notPresent_1" />
+    <variable domain="DCRJ2_2_18" name="Id_StringSwitch_18_otherwise_1" />
+    <variable domain="DCRJ2_3_18" name="Id_StringSwitch_18_strings_1" />
+    <variable domain="DCRJ2_3_18" name="Id_StringSwitch_18_strings_2" />
+    <variable domain="DCRJ2_1_19" name="Id_LanguageSwitch_19_notPresent_1" />
+    <variable domain="DCRJ2_2_19" name="Id_LanguageSwitch_19_otherwise_1" />
+    <variable domain="DCRJ2_3_19" name="Id_LanguageSwitch_19_languages_1" />
+    <variable domain="DCRJ2_3_19" name="Id_LanguageSwitch_19_languages_2" />
+    <variable domain="DF20_1" name="F_TimeSwitch_20_tzid" />
+    <variable domain="DF20_2" name="F_TimeSwitch_20_tzurl" />
+    <variable domain="DCRJ2_1_20" name="Id_TimeSwitch_20_notPresent_1" />
+    <variable domain="DCRJ2_2_20" name="Id_TimeSwitch_20_otherwise_1" />
+    <variable domain="DCRJ2_3_20" name="Id_TimeSwitch_20_times_1" />
+    <variable domain="DCRJ2_3_20" name="Id_TimeSwitch_20_times_2" />
+    <variable domain="DCRJ2_1_21" name="Id_PrioritySwitch_21_notPresent_1" />
+    <variable domain="DCRJ2_2_21" name="Id_PrioritySwitch_21_otherwise_1" />
+    <variable domain="DCRJ2_3_21" name="Id_PrioritySwitch_21_priorities_1" />
+    <variable domain="DCRJ2_3_21" name="Id_PrioritySwitch_21_priorities_2" />
+    <variable domain="DF22_1" name="F_Location_22_url" />
+    <variable domain="DF22_2" name="F_Location_22_priority" />
+    <variable domain="DF22_3" name="F_Location_22_clear" />
+    <variable domain="DCRJ2_1_22" name="Id_Location_22_contents_1" />
+    <variable domain="DF23_1" name="F_SubCall_23_ref" />
+    <variable domain="DF24_1" name="F_Proxy_24_timeout" />
+    <variable domain="DF24_2" name="F_Proxy_24_recurse" />
+    <variable domain="DF24_3" name="F_Proxy_24_ordering" />
+    <variable domain="DCRJ2_1_24" name="Id_Proxy_24_busy_1" />
+    <variable domain="DCRJ2_2_24" name="Id_Proxy_24_noAnswer_1" />
+    <variable domain="DCRJ2_3_24" name="Id_Proxy_24_redirection_1" />
+    <variable domain="DCRJ2_4_24" name="Id_Proxy_24_failure_1" />
+    <variable domain="DCRJ2_5_24" name="Id_Proxy_24_default_1" />
+    <variable domain="DF25_1" name="F_Redirect_25_permanent" />
+    <variable domain="DF26_1" name="F_Reject_26_status" />
+    <variable domain="DF26_2" name="F_Reject_26_reason" />
+    <variable domain="DCRJ2_1_27" name="Id_CPLModel_27_elements_1" />
+    <variable domain="DCRJ2_1_27" name="Id_CPLModel_27_elements_2" />
+  </variables>
+  <predicates nbPredicates="1">
+    <predicate name="inf">
+      <parameters>int v1 int v2</parameters>
+      <expression>
+        <functional>lt(v1,v2)</functional>
+      </expression>
+    </predicate>
+  </predicates>
+  <constraints nbConstraints="7">
+    <constraint name="ConsId_CPL_1_subActions_2Id_CPL_1_subActions_1" arity="2" scope="Id_CPL_1_subActions_2 Id_CPL_1_subActions_1" reference="inf">
+      <parameters>Id_CPL_1_subActions_1 Id_CPL_1_subActions_2</parameters>
+    </constraint>
+    <constraint name="ConsId_AddressSwitch_17_addresses_2Id_AddressSwitch_17_addresses_1" arity="2" scope="Id_AddressSwitch_17_addresses_2 Id_AddressSwitch_17_addresses_1" reference="inf">
+      <parameters>Id_AddressSwitch_17_addresses_1 Id_AddressSwitch_17_addresses_2</parameters>
+    </constraint>
+    <constraint name="ConsId_StringSwitch_18_strings_2Id_StringSwitch_18_strings_1" arity="2" scope="Id_StringSwitch_18_strings_2 Id_StringSwitch_18_strings_1" reference="inf">
+      <parameters>Id_StringSwitch_18_strings_1 Id_StringSwitch_18_strings_2</parameters>
+    </constraint>
+    <constraint name="ConsId_LanguageSwitch_19_languages_2Id_LanguageSwitch_19_languages_1" arity="2" scope="Id_LanguageSwitch_19_languages_2 Id_LanguageSwitch_19_languages_1" reference="inf">
+      <parameters>Id_LanguageSwitch_19_languages_1 Id_LanguageSwitch_19_languages_2</parameters>
+    </constraint>
+    <constraint name="ConsId_TimeSwitch_20_times_2Id_TimeSwitch_20_times_1" arity="2" scope="Id_TimeSwitch_20_times_2 Id_TimeSwitch_20_times_1" reference="inf">
+      <parameters>Id_TimeSwitch_20_times_1 Id_TimeSwitch_20_times_2</parameters>
+    </constraint>
+    <constraint name="ConsId_PrioritySwitch_21_priorities_2Id_PrioritySwitch_21_priorities_1" arity="2" scope="Id_PrioritySwitch_21_priorities_2 Id_PrioritySwitch_21_priorities_1" reference="inf">
+      <parameters>Id_PrioritySwitch_21_priorities_1 Id_PrioritySwitch_21_priorities_2</parameters>
+    </constraint>
+    <constraint name="ConsId_CPLModel_27_elements_2Id_CPLModel_27_elements_1" arity="2" scope="Id_CPLModel_27_elements_2 Id_CPLModel_27_elements_1" reference="inf">
+      <parameters>Id_CPLModel_27_elements_1 Id_CPLModel_27_elements_2</parameters>
+    </constraint>
+  </constraints>
+</instance>

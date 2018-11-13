@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="ASCII"?>
+<BibTeX:BibTeXFile xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:BibTeX="http://BibTeX/1.0" xsi:schemaLocation="http://BibTeX/1.0 meta-models4ATL/BibTeX.ecore">
+  <entries xsi:type="BibTeX:Article" id="Article_3_id_-2" year="Article_3_year_-2" title="Article_3_title_-2" journal="Article_3_journal_-2"/>
+  <entries xsi:type="BibTeX:TechReport" id="TechReport_4_id_-2" year="TechReport_4_year_-2" title="TechReport_4_title_-2"/>
+  <entries xsi:type="BibTeX:Unpublished" id="Unpublished_5_id_-2" title="Unpublished_5_title_-2" note="Unpublished_5_note_-2"/>
+  <entries xsi:type="BibTeX:Manual" id="Manual_6_id_-2" title="Manual_6_title_-2"/>
+  <entries xsi:type="BibTeX:Proceedings" id="Proceedings_7_id_-2" year="Proceedings_7_year_-2" title="Proceedings_7_title_-2"/>
+  <entries xsi:type="BibTeX:InProceedings" id="InProceedings_8_id_-2" year="InProceedings_8_year_-2" title="InProceedings_8_title_-2" booktitle="InProceedings_8_booktitle_-2"/>
+  <entries xsi:type="BibTeX:Booklet" id="Booklet_9_id_-2" year="Booklet_9_year_-2"/>
+  <entries xsi:type="BibTeX:Book" id="Book_10_id_-2" year="Book_10_year_-2" title="Book_10_title_-2" publisher="Book_10_publisher_-2"/>
+  <entries xsi:type="BibTeX:InCollection" id="InCollection_11_id_-2" year="InCollection_11_year_-2" title="InCollection_11_title_-2" publisher="InCollection_11_publisher_-2" booktitle="InCollection_11_booktitle_-2"/>
+  <entries xsi:type="BibTeX:InBook" id="InBook_12_id_-2" year="InBook_12_year_-2" title="InBook_12_title_-2" publisher="InBook_12_publisher_-2" chapter="-2"/>
+  <entries xsi:type="BibTeX:Misc" id="Misc_13_id_-2"/>
+  <entries xsi:type="BibTeX:PhDThesis" id="PhDThesis_14_id_-2" year="PhDThesis_14_year_-2" title="PhDThesis_14_title_-2" school="PhDThesis_14_school_-2"/>
+  <entries xsi:type="BibTeX:MasterThesis" id="MasterThesis_15_id_-2" year="MasterThesis_15_year_-2" title="MasterThesis_15_title_-2" school="MasterThesis_15_school_-2"/>
+</BibTeX:BibTeXFile>
