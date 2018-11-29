@@ -1,0 +1,29 @@
+% Configuration file for grimm tool 
+%	Please specify detailed information on your models:
+%		(1) precise number of class intances
+%		(2) domain for attributes
+%		(3) reference upper bound
+%---------------------------------
+% Number of instances for Classes
+%---------------------------------
+Class=0
+Property=0
+%---------------------------------
+% Domains of the features
+%---------------------------------
+%	Strings: choose: random, name or give a list of values (space separated)
+%	Integer: choose: 1..100, custom interval or  list of values (space separated)
+%---------------------------------
+% String
+%--------
+Class/name=name
+Property/name=name
+Property/primitiveType=random
+Package/name=name
+%---------------------------------
+% Integer
+%---------
+%---------------------------------
+% References upper bound
+%---------------------------------
+RefsBound=3

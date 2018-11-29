@@ -1,0 +1,105 @@
+%This is a configuration file for Grimm Tool 
+%Please do not change the ordering or the name of any element !
+%Put a numerical value instead of 0, lower, upper, a and z 
+% 
+% 
+%-------------------------------------------------------------
+% Number of instances for Classes 
+%-------------------------------------------------------------
+%-------------------------------------------------------------
+EAttribute=0
+EClass=0
+EDataType=0
+EEnum=0
+EEnumLiteral=0
+EOperation=0
+EParameter=0
+EReference=0
+EStringToStringMapEntry=0
+%-------------------------------------------------------------
+%-------------------------------------------------------------
+%Domains of the features 
+%-------------------------------------------------------------
+%-------------------------------------------------------------
+EAttribute/name=lower..upper or a b c ... z
+EAttribute/ordered=lower..upper or a b c ... z
+EAttribute/unique=lower..upper or a b c ... z
+EAttribute/lowerBound=lower..upper or a b c ... z
+EAttribute/upperBound=lower..upper or a b c ... z
+EAttribute/many=lower..upper or a b c ... z
+EAttribute/required=lower..upper or a b c ... z
+EAttribute/changeable=lower..upper or a b c ... z
+EAttribute/volatile=lower..upper or a b c ... z
+EAttribute/transient=lower..upper or a b c ... z
+EAttribute/defaultValueLiteral=lower..upper or a b c ... z
+EAttribute/defaultValue=lower..upper or a b c ... z
+EAttribute/unsettable=lower..upper or a b c ... z
+EAttribute/derived=lower..upper or a b c ... z
+EAttribute/iD=lower..upper or a b c ... z
+EClass/name=lower..upper or a b c ... z
+EClass/instanceClassName=lower..upper or a b c ... z
+EClass/instanceClass=lower..upper or a b c ... z
+EClass/defaultValue=lower..upper or a b c ... z
+EClass/instanceTypeName=lower..upper or a b c ... z
+EClass/abstract=lower..upper or a b c ... z
+EClass/interface=lower..upper or a b c ... z
+EDataType/name=lower..upper or a b c ... z
+EDataType/instanceClassName=lower..upper or a b c ... z
+EDataType/instanceClass=lower..upper or a b c ... z
+EDataType/defaultValue=lower..upper or a b c ... z
+EDataType/instanceTypeName=lower..upper or a b c ... z
+EDataType/serializable=lower..upper or a b c ... z
+EEnum/name=lower..upper or a b c ... z
+EEnum/instanceClassName=lower..upper or a b c ... z
+EEnum/instanceClass=lower..upper or a b c ... z
+EEnum/defaultValue=lower..upper or a b c ... z
+EEnum/instanceTypeName=lower..upper or a b c ... z
+EEnum/serializable=lower..upper or a b c ... z
+EEnumLiteral/name=lower..upper or a b c ... z
+EEnumLiteral/value=lower..upper or a b c ... z
+EEnumLiteral/instance=lower..upper or a b c ... z
+EEnumLiteral/literal=lower..upper or a b c ... z
+EOperation/name=lower..upper or a b c ... z
+EOperation/ordered=lower..upper or a b c ... z
+EOperation/unique=lower..upper or a b c ... z
+EOperation/lowerBound=lower..upper or a b c ... z
+EOperation/upperBound=lower..upper or a b c ... z
+EOperation/many=lower..upper or a b c ... z
+EOperation/required=lower..upper or a b c ... z
+EPackage/name=lower..upper or a b c ... z
+EPackage/nsURI=lower..upper or a b c ... z
+EPackage/nsPrefix=lower..upper or a b c ... z
+EParameter/name=lower..upper or a b c ... z
+EParameter/ordered=lower..upper or a b c ... z
+EParameter/unique=lower..upper or a b c ... z
+EParameter/lowerBound=lower..upper or a b c ... z
+EParameter/upperBound=lower..upper or a b c ... z
+EParameter/many=lower..upper or a b c ... z
+EParameter/required=lower..upper or a b c ... z
+EReference/name=lower..upper or a b c ... z
+EReference/ordered=lower..upper or a b c ... z
+EReference/unique=lower..upper or a b c ... z
+EReference/lowerBound=lower..upper or a b c ... z
+EReference/upperBound=lower..upper or a b c ... z
+EReference/many=lower..upper or a b c ... z
+EReference/required=lower..upper or a b c ... z
+EReference/changeable=lower..upper or a b c ... z
+EReference/volatile=lower..upper or a b c ... z
+EReference/transient=lower..upper or a b c ... z
+EReference/defaultValueLiteral=lower..upper or a b c ... z
+EReference/defaultValue=lower..upper or a b c ... z
+EReference/unsettable=lower..upper or a b c ... z
+EReference/derived=lower..upper or a b c ... z
+EReference/containment=lower..upper or a b c ... z
+EReference/container=lower..upper or a b c ... z
+EReference/resolveProxies=lower..upper or a b c ... z
+EStringToStringMapEntry/key=lower..upper or a b c ... z
+EStringToStringMapEntry/value=lower..upper or a b c ... z
+%-------------------------------------------------------------
+%-------------------------------------------------------------
+%Some others 
+%-------------------------------------------------------------
+%-------------------------------------------------------------
+RefsBound=0
+FeaturesBound=0
+%-------------------------------------------------------------
